@@ -1,0 +1,13 @@
+## Interface: 100005
+## Title: FireGMod |cffeda55fGM GUI|r by |cFFFF8080MuDZaHeDiN|r |cff00aa0010.0.5.48397|r
+## Notes: Use /fgm to open GUI.
+## Author: MuDZaHeDiN
+## Version: 0.4
+
+libs\LibStub\LibStub.lua
+libs\AceLocale-3.0\AceLocale-3.0.xml
+
+locale\enUS.lua
+locale\deDE.lua
+
+FireGMod.lua
